@@ -1,4 +1,4 @@
-![Rapid Platform](http://files.glassocean.net/github/rp-banner.jpg)
+![Rapid Platform](http://files.glassocean.net/github/rp-banner.jpg) 
 ==============  
   
 ***Note: see the [Rapid.js](http://github.com/perrybutler/rapid.js) project for a glimpse into the future of Rapid Platform.***

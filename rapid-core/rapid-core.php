@@ -1,4 +1,4 @@
-<?php
+<?php 
 
 // load the third-party scripts/libs
 include_once dirname(__FILE__) . "/../libs/simple-html-dom/simple_html_dom.php";

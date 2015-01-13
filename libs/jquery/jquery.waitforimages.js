@@ -1,4 +1,4 @@
-/*
+/* 
  * waitForImages 1.4.2
  * -------------------
  * Provides a callback when all images have loaded in your given selector.

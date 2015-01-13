@@ -1,4 +1,4 @@
-<?php
+<?php 
 /*
 Plugin Name: Rapid Platform
 Plugin URI: http://therapidplatform.com
